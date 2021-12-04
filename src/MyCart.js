@@ -34,6 +34,8 @@ function MyCart(props) {
     cartData=store.getState()
     return (
         <div>
+            <button>+</button>
+            <button>-</button>
            {cartData} 
         </div>
     );
