@@ -21,6 +21,7 @@ function Home(props) {
                         }>
                         Add To Cart</button>
                 </div>
+<h1>  Adding a new tag</h1>
             </div>
         </div>
     )
